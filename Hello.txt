@@ -1,3 +1,4 @@
 Hello World!
-Writing after first Push/Commit.
+Writing after first Commit.
+Writing after first Push.
 Text from Mahfuz
